@@ -15,6 +15,7 @@
 		3D36F03A1F5921AC00C1BD85 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D36F0381F5921AC00C1BD85 /* LaunchScreen.storyboard */; };
 		3D36F0451F5921AC00C1BD85 /* CoreToDo_for_QiitaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D36F0441F5921AC00C1BD85 /* CoreToDo_for_QiitaTests.swift */; };
 		3D36F0501F5921AC00C1BD85 /* CoreToDo_for_QiitaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D36F04F1F5921AC00C1BD85 /* CoreToDo_for_QiitaUITests.swift */; };
+		3D36F0601F59386D00C1BD85 /* AddTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D36F05F1F59386D00C1BD85 /* AddTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3D36F04B1F5921AC00C1BD85 /* CoreToDo for QiitaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CoreToDo for QiitaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D36F04F1F5921AC00C1BD85 /* CoreToDo_for_QiitaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreToDo_for_QiitaUITests.swift; sourceTree = "<group>"; };
 		3D36F0511F5921AC00C1BD85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D36F05F1F59386D00C1BD85 /* AddTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				3D36F02C1F5921AC00C1BD85 /* AppDelegate.swift */,
 				3D36F02E1F5921AC00C1BD85 /* ViewController.swift */,
 				3D36F0301F5921AC00C1BD85 /* Main.storyboard */,
+				3D36F05F1F59386D00C1BD85 /* AddTaskViewController.swift */,
 				3D36F0361F5921AC00C1BD85 /* Assets.xcassets */,
 				3D36F0381F5921AC00C1BD85 /* LaunchScreen.storyboard */,
 				3D36F03B1F5921AC00C1BD85 /* Info.plist */,
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D36F02F1F5921AC00C1BD85 /* ViewController.swift in Sources */,
+				3D36F0601F59386D00C1BD85 /* AddTaskViewController.swift in Sources */,
 				3D36F02D1F5921AC00C1BD85 /* AppDelegate.swift in Sources */,
 				3D36F0351F5921AC00C1BD85 /* CoreToDo_for_Qiita.xcdatamodeld in Sources */,
 			);
